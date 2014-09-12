@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>758848B0-33C8-4E64-86E9-AF29B7195D88</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Trail</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD573587-F352-4C3A-8775-1397DFB2F87F</key>
+		<string>https://github.com/lkeude96/Trail.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Trail.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD573587-F352-4C3A-8775-1397DFB2F87F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lkeude96/Trail.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD573587-F352-4C3A-8775-1397DFB2F87F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD573587-F352-4C3A-8775-1397DFB2F87F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Trail</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -7,12 +7,19 @@
 //
 
 #import "TrailAppDelegate.h"
+#import <Parse/Parse.h>
 
 @implementation TrailAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    // Initialize the Parse SDK
+    [Parse setApplicationId:@"S4vVLZc0OUwZZ4NPViWLLsBeBUTTIICuwzKvBVnK"
+                  clientKey:@"J0UyD43shW0hUfp0RU2Dtd9vfPuL0NFvX9HQ1Ndj"];
+    
+    // Parse Analytics
+    
+    [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
     return YES;
 }
 							
